@@ -1,9 +1,15 @@
-### Hi there 👋
-I'm Yana, an ICT graduate excited about coding and machine learning!
+## hi! i'm yana
 
-- I recently built a machine learning model to detect precipitation from CCTV footage, check it out [here](https://github.com/yanamis/cctv-precipitation-detection)
-- I'm open to collaborating on Python and ML projects!
-  - 📫 Reach me at: yanamishula@gmail.com
+i work with machine learning and computer vision.  
+open to python/ml projects 👩‍💻
+
+### something cool i built recently
+
+- developed a full ml pipeline to detect rain in cctv footage → [take a look](https://github.com/yanamis/cctv-precipitation-detection)
+
+### elsewhere
+
+- [linkedin](https://www.linkedin.com/in/yana-mishula-ab969a2a9)
 
 <!--
 **yanamis/yanamis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
