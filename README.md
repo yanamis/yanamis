@@ -1,15 +1,15 @@
-## hi! i'm yana
+## Hi! I'm Yana
 
-i work with machine learning and computer vision.  
-open to python/ml projects 👩‍💻
+I work with machine learning and computer vision.  
+Open to Python/ML projects 👩‍💻
 
-### something cool i built recently
+### Something cool I built recently
 
-- developed a full ml pipeline to detect rain in cctv footage → [take a look](https://github.com/yanamis/cctv-precipitation-detection)
+- Developed a full ML pipeline to detect rain in CCTV footage → [take a look](https://github.com/yanamis/cctv-precipitation-detection)
 
-### elsewhere
+### Elsewhere
 
-- [linkedin](https://www.linkedin.com/in/yana-mishula-ab969a2a9)
+- [LinkedIn](https://www.linkedin.com/in/yana-mishula-ab969a2a9)
 
 <!--
 **yanamis/yanamis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
